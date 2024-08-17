@@ -1,5 +1,0 @@
-decimal = int(input('Enter a decimal number:'))
-print("Conversion of decimal :")
-print(bin(decimal),"in binary.")
-print(oct(decimal),"in octal.")
-print(hex(decimal),"in hexadecimal.")
